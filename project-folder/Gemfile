@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.9.4"
+gem "jekyll-seo-tag", "~> 2.7"
+gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-theme-primer", "~> 0.6"
+gem "webrick", "~> 1.9"
+gem "github-pages", "~> 229"
+gem "kramdown", "~> 2.3"

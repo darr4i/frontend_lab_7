@@ -1,0 +1,22 @@
+# _config.yml
+
+title: "Frontend Lab 7"
+description: "Мій проект для лабораторної роботи на курсі Frontend"
+baseurl: "" 
+url: "http://localhost:3000/" 
+
+theme: jekyll-theme-primer 
+
+seo:
+  title: "Frontend Lab 7 - Сайт"
+  description: "Тестовий сайт для лабораторної роботи з frontend"
+  url: "http://localhost:3000/"
+
+paginate: 
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
